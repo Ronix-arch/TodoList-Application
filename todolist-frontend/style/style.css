@@ -1,0 +1,13 @@
+button {
+    margin-bottom: var(--pico-spacing);
+}
+
+body {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+button.caution {
+    background-color: red;
+    border-color: red;
+}
